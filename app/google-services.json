@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "project_number": "153809121527",
+    "firebase_url": "https://uas-mobile2-a8cdb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uas-mobile2-a8cdb",
+    "storage_bucket": "uas-mobile2-a8cdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153809121527:android:b43be1f35e70923e05e3f2",
+        "android_client_info": {
+          "package_name": "com.company.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153809121527-j4a5r580d1hqpcote08o261bbphgbcb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.project",
+            "certificate_hash": "9290b5f32006a605d07b20b660221b327eb0adfd"
+          }
+        },
+        {
+          "client_id": "153809121527-j3jbnjdmh2clqat4cn1d74si5t9ahea7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0GJWnRBExO-MPu21lZZ2Wr-HXQsWDp1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153809121527-j3jbnjdmh2clqat4cn1d74si5t9ahea7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153809121527:android:a4c59b193a27b58a05e3f2",
+        "android_client_info": {
+          "package_name": "com.icac.kel2planme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153809121527-j3jbnjdmh2clqat4cn1d74si5t9ahea7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0GJWnRBExO-MPu21lZZ2Wr-HXQsWDp1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153809121527-j3jbnjdmh2clqat4cn1d74si5t9ahea7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153809121527:android:59dd9f621dfea9c305e3f2",
+        "android_client_info": {
+          "package_name": "com.icac.noteme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153809121527-j3jbnjdmh2clqat4cn1d74si5t9ahea7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0GJWnRBExO-MPu21lZZ2Wr-HXQsWDp1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153809121527-j3jbnjdmh2clqat4cn1d74si5t9ahea7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153809121527:android:2cb77c913736631a05e3f2",
+        "android_client_info": {
+          "package_name": "com.icac.planme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153809121527-j3jbnjdmh2clqat4cn1d74si5t9ahea7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0GJWnRBExO-MPu21lZZ2Wr-HXQsWDp1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153809121527-j3jbnjdmh2clqat4cn1d74si5t9ahea7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153809121527:android:206cca0b6801c91a05e3f2",
+        "android_client_info": {
+          "package_name": "com.kelompok2.aplikasiplanme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153809121527-hjiv42eff4kugl8p8fmv020ddp6iq286.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kelompok2.aplikasiplanme",
+            "certificate_hash": "9290b5f32006a605d07b20b660221b327eb0adfd"
+          }
+        },
+        {
+          "client_id": "153809121527-j3jbnjdmh2clqat4cn1d74si5t9ahea7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0GJWnRBExO-MPu21lZZ2Wr-HXQsWDp1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153809121527-j3jbnjdmh2clqat4cn1d74si5t9ahea7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
